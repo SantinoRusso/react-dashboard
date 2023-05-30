@@ -3,21 +3,21 @@ import SmallCard from './SmallCard';
 
 let moviesInDataBase = {
     color:"primary",
-    titulo:"Movies in Data Base",
+    titulo:"Productos Data Base",
     valor:21,
     icono:"fas fa-film",
 }
 
 let totalAwards = {
     color:"success",
-    titulo:"Total Awards",
+    titulo:"Usuarios",
     valor:79,
     icono:"fas fa-award",
 }
 
 let actorsQuantity = {
     color:"warning",
-    titulo:"Actors Quantity",
+    titulo:"Macetas",
     valor:49,
     icono:"fas fa-user",
 }
